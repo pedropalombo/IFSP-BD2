@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "638bb087dc1c6eea34bce0e0"
+  },
+  "nome": "Ravenclaw",
+  "foco": "Magic nd Knowledge",
+  "guilda_nome": "The Marauders"
+},{
+  "_id": {
+    "$oid": "638bb087dc1c6eea34bce0e1"
+  },
+  "nome": "Gryffindor",
+  "foco": "Magic nd Honour",
+  "guilda_nome": "The Marauders"
+},{
+  "_id": {
+    "$oid": "638bb087dc1c6eea34bce0e2"
+  },
+  "nome": "ClassicA1s",
+  "foco": "Nonsense",
+  "guilda_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb087dc1c6eea34bce0e3"
+  },
+  "nome": "RenegadA1s",
+  "foco": "Solo",
+  "guilda_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb087dc1c6eea34bce0e4"
+  },
+  "nome": "Jaemsgae",
+  "foco": "Assault nd Plunder",
+  "guilda_nome": "The Flying Dutchman"
+},{
+  "_id": {
+    "$oid": "638bb087dc1c6eea34bce0e5"
+  },
+  "nome": "Gurlpwr",
+  "foco": "Kindness",
+  "guilda_nome": "The Flying Dutchman"
+}]

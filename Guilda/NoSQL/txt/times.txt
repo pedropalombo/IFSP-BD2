@@ -1,0 +1,32 @@
+[
+{
+  "nome": "Ravenclaw",
+  "foco": "Magic nd Knowledge",
+  "guilda_nome": "The Marauders"
+},
+{
+  "nome": "Gryffindor",
+  "foco": "Magic nd Honour",
+  "guilda_nome": "The Marauders"
+},
+{
+  "nome": "ClassicA1s",
+  "foco": "Nonsense",
+  "guilda_nome": "A1s"
+},
+{
+  "nome": "RenegadA1s",
+  "foco": "Solo",
+  "guilda_nome": "A1s"
+},
+{
+  "nome": "Jaemsgae",
+  "foco": "Assault nd Plunder",
+  "guilda_nome": "The Flying Dutchman"
+},
+{
+  "nome": "Gurlpwr",
+  "foco": "Kindness",
+  "guilda_nome": "The Flying Dutchman"
+}
+]

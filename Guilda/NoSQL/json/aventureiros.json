@@ -1,0 +1,185 @@
+[{
+  "_id": {
+    "$oid": "638bb6eddc1c6eea34bce10f"
+  },
+  "titulo": "Godric Gryffindor",
+  "classe": "Wizard",
+  "lvl": 115,
+  "time_nome": "Gryffindor"
+},{
+  "_id": {
+    "$oid": "638bb723dc1c6eea34bce110"
+  },
+  "titulo": "Minerva McGonagall",
+  "classe": "Witch",
+  "lvl": 85,
+  "time_nome": "Gryffindor"
+},{
+  "_id": {
+    "$oid": "638bb753dc1c6eea34bce111"
+  },
+  "titulo": "Neville Longbottom",
+  "classe": "Wizard",
+  "lvl": 31,
+  "time_nome": "Gryffindor"
+},{
+  "_id": {
+    "$oid": "638bb76bdc1c6eea34bce112"
+  },
+  "titulo": "Rowena Ravenclaw",
+  "classe": "Mage",
+  "lvl": 110,
+  "time_nome": "Ravenclaw"
+},{
+  "_id": {
+    "$oid": "638bb790dc1c6eea34bce113"
+  },
+  "titulo": "Luna Lovegood",
+  "classe": "Witch",
+  "lvl": 24,
+  "time_nome": "Ravenclaw"
+},{
+  "_id": {
+    "$oid": "638bb7a5dc1c6eea34bce114"
+  },
+  "titulo": "Myrtle Warren",
+  "classe": "Apparition",
+  "lvl": 12,
+  "time_nome": "Ravenclaw"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce115"
+  },
+  "titulo": "Tomilhus Alexander",
+  "classe": "Bruiser",
+  "lvl": 24,
+  "time_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce116"
+  },
+  "titulo": "Pecv Shanon",
+  "classe": "D-Master",
+  "lvl": 42,
+  "time_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce117"
+  },
+  "titulo": "Frodux Cesarium",
+  "classe": "Puppeteer",
+  "lvl": 68,
+  "time_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce118"
+  },
+  "titulo": "Rodrigh I'Caro",
+  "classe": "Paladin",
+  "lvl": 77,
+  "time_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce119"
+  },
+  "titulo": "Ba'Karu Planktun",
+  "classe": "Watcher",
+  "lvl": 24,
+  "time_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce11a"
+  },
+  "titulo": "Bi'El Ez-MPLO",
+  "classe": "Synthesiser",
+  "lvl": 40,
+  "time_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce11b"
+  },
+  "titulo": "Dash T'smo",
+  "classe": "Rogue",
+  "lvl": 61,
+  "time_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce11c"
+  },
+  "titulo": "Ordna Landia",
+  "classe": "Berserk",
+  "lvl": 50,
+  "time_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce11d"
+  },
+  "titulo": "Je'Se Iscarots",
+  "classe": "Warlock",
+  "lvl": 24,
+  "time_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce11e"
+  },
+  "titulo": "Galbrat of the Klemps",
+  "classe": "Monk",
+  "lvl": 51,
+  "time_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce11f"
+  },
+  "titulo": "Jo'Oj Astronu",
+  "classe": "Oracle",
+  "lvl": 24,
+  "time_nome": "A1s"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce120"
+  },
+  "titulo": "Atreides",
+  "classe": "Fighter",
+  "lvl": 99,
+  "time_nome": "Jaemsgae"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce121"
+  },
+  "titulo": "Tone",
+  "classe": "Biker",
+  "lvl": 82,
+  "time_nome": "Jaemsgae"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce122"
+  },
+  "titulo": "Sbeven",
+  "classe": "Hippie",
+  "lvl": 24,
+  "time_nome": "Jaemsgae"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce123"
+  },
+  "titulo": "Mami",
+  "classe": "Sandwich Maker",
+  "lvl": 80,
+  "time_nome": "Gurlpwr"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce124"
+  },
+  "titulo": "Val of Forks",
+  "classe": "Classicalia",
+  "lvl": 4,
+  "time_nome": "Gurlpwr"
+},{
+  "_id": {
+    "$oid": "638bb96bdc1c6eea34bce125"
+  },
+  "titulo": "Lumi",
+  "classe": "Oracle",
+  "lvl": 21,
+  "time_nome": "Gurlpwr"
+}]

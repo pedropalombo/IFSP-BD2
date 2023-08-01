@@ -1,0 +1,140 @@
+[
+{
+  "titulo": "Godric Gryffindor",
+  "classe": "Wizard",
+  "lvl": 115,
+  "time_nome": "Gryffindor" 
+},
+{
+  "titulo": "Minerva McGonagall",
+  "classe": "Witch",
+  "lvl": 85,
+  "time_nome": "Gryffindor"
+},
+{
+  "titulo": "Neville Longbottom",
+  "classe": "Wizard",
+  "lvl": 31,
+  "time_nome": "Gryffindor"
+},
+{
+  "titulo": "Rowena Ravenclaw",
+  "classe": "Mage",
+  "lvl": 110,
+  "time_nome": "Ravenclaw"
+},
+{
+  "titulo": "Luna Lovegood",
+  "classe": "Witch",
+  "lvl": 24,
+  "time_nome": "Ravenclaw"
+},
+{
+  "titulo": "Myrtle Warren",
+  "classe": "Apparition",
+  "lvl": 12,
+  "time_nome": "Ravenclaw"
+},
+{
+  "titulo": "Tomilhus Alexander",
+  "classe": "Bruiser",
+  "lvl": 24,
+  "time_nome": "A1s"
+},
+{
+  "titulo": "Pecv Shanon",
+  "classe": "D-Master",
+  "lvl": 42,
+  "time_nome": "A1s"
+},
+{
+  "titulo": "Frodux Cesarium",
+  "classe": "Puppeteer",
+  "lvl": 68,
+  "time_nome": "A1s"
+},
+{
+  "titulo": "Rodrigh I'Caro",
+  "classe": "Paladin",
+  "lvl": 77,
+  "time_nome": "A1s"
+},
+{
+  "titulo": "Ba'Karu Planktun",
+  "classe": "Watcher",
+  "lvl": 24,
+  "time_nome": "A1s"
+},
+{
+  "titulo": "Bi'El Ez-MPLO",
+  "classe": "Synthesiser",
+  "lvl": 40,
+  "time_nome": "A1s"
+},
+{
+  "titulo": "Dash T'smo",
+  "classe": "Rogue",
+  "lvl": 61,
+  "time_nome": "A1s"
+},
+{
+  "titulo": "Ordna Landia",
+  "classe": "Berserk",
+  "lvl": 50,
+  "time_nome": "A1s"
+},
+{
+  "titulo": "Je'Se Iscarots",
+  "classe": "Warlock",
+  "lvl": 24,
+  "time_nome": "A1s"
+},
+{
+  "titulo": "Galbrat of the Klemps",
+  "classe": "Monk",
+  "lvl": 51,
+  "time_nome": "A1s"
+},
+{
+  "titulo": "Jo'Oj Astronu",
+  "classe": "Oracle",
+  "lvl": 24,
+  "time_nome": "A1s"
+},
+{
+  "titulo": "Atreides",
+  "classe": "Fighter",
+  "lvl": 99,
+  "time_nome": "Jaemsgae"  
+},
+{
+  "titulo": "Tone",
+  "classe": "Biker",
+  "lvl": 82,
+  "time_nome": "Jaemsgae" 
+},
+{
+  "titulo": "Sbeven",
+  "classe": "Hippie",
+  "lvl": 24,
+  "time_nome": "Jaemsgae"  
+},
+{
+  "titulo": "Mami",
+  "classe": "Sandwich Maker",
+  "lvl": 80,
+  "time_nome":  "Gurlpwr"
+},
+{
+  "titulo": "Val of Forks",
+  "classe": "Classicalia",
+  "lvl": 4,
+  "time_nome": "Gurlpwr"  
+},
+{
+  "titulo": "Lumi",
+  "classe": "Oracle",
+  "lvl": 21,
+  "time_nome": "Gurlpwr"  
+}
+]
